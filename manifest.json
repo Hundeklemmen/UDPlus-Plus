@@ -1,18 +1,13 @@
 {
 	"manifest_version": 2,
 
-	"name": "UD++",
+	"name": "UD+++",
 	"description": "An extension that makes the experience of using uddata+ better",
 	"version": "2.3.2",
 	"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
 	"options_ui":{
 		"page": "options/options.html",
 		"chrome_style": true
-	},
-	"applications": {
-		"gecko": {
-			"id": "ud-plus-plus@benjadahl.xyz"
-		}
 	},
 	"icons":{
 		"16":"resources/icons/icon16.png",

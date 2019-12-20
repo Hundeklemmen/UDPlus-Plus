@@ -22,5 +22,69 @@ body {
 
 .selected-event {
 	border-width: 2px;
-	border-color: black !important;
+	border-color: #7289DA !important;
+}
+
+body {
+	background-color: #23272A!important;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+p {
+	color: #99AAB5;
+}
+
+table {
+	background-color: #2C2F33;
+}
+
+th {
+	color: white;
+}
+
+th a {
+	color: #7289DA;
+}
+
+span {
+	color: white;
+}
+
+.fc-unthemed td.fc-today {
+	background-color: transparent;
+}
+
+hr {
+	background: transparent!important;
+}
+
+.list-group-item {
+	background-color: #2C2F33!important;
+}
+
+li {
+	color: white;
+}
+
+.linkified {
+	color: #7289DA;
+}
+
+label {
+	color: #99AAB5;
+}
+
+a {
+	color: #7289DA;
+}
+
+.list-group-item-success {
+	color: #7289DA;
 }
